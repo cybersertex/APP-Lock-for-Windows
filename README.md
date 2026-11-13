@@ -1,3 +1,25 @@
+
+<img width="2404" height="1586" alt="image" src="https://github.com/user-attachments/assets/f8bece9d-8dea-452f-a06a-5491c880a7a6" />
+
+<BR>
+
+
+
+
+
+<img width="2380" height="1574" alt="image" src="https://github.com/user-attachments/assets/f46ec252-b619-4002-84c1-5de6419af6d7" />
+
+
+<BR>
+
+
+
+<img width="2390" height="1594" alt="image" src="https://github.com/user-attachments/assets/6784e1ce-5dda-48ee-84e5-9e2266eed454" />
+
+
+
+
+
 # AppLock
 
 AppLock is a small, local Windows application from **Cybersertex** that puts
